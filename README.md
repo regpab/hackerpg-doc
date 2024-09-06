@@ -1,2 +1,2 @@
 # hackerpg-doc
-Documentation for HackeRPG
+All documentation is on the [Wiki Page](https://github.com/regpab/hackerpg-doc/wiki)
